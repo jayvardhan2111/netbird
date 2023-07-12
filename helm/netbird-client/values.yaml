@@ -1,0 +1,5 @@
+replicaCount: 2
+container:
+  image: netbirdio/netbird:latest
+key: #provide in in cli
+
